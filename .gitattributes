@@ -1,0 +1,6 @@
+# Project-specific overrides
+*.jpg binary
+src/*.ts linguist-detectable
+*.yaml linguist-detectable=false
+*.ico binary
+*.htm linguist-vendored
